@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" packageId="" system="http://gbif.org" scope="system" xml:lang="en">
+    <dataset>
+        <title>Fish Fauna of Berlin</title>
+        <creator>
+            <organizationName>Senate Department for Urban Development and the Environment</organizationName>
+            <address>
+                <deliveryPoint>Württembergische Straße 6</deliveryPoint>
+                <city>Berlin</city>
+                <postalCode>10707</postalCode>
+                <country>Germany</country>
+            </address>
+            <electronicMailAddress>kommunikation@senstadtum.berlin.de</electronicMailAddress>
+            <onlineUrl>http://www.stadtentwicklung.berlin.de/index_en.shtml</onlineUrl>            
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Markus</givenName>
+                <surName>D&#xF6;ring</surName>
+            </individualName>
+            <organizationName>GBIF</organizationName>
+            <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
+        </metadataProvider>
+        <associatedParty>
+            <organizationName>Fischereiamt Berlin</organizationName>
+            <address>
+                <deliveryPoint>Havelchaussee 149/151</deliveryPoint>
+                <city>Berlin</city>
+                <postalCode>14055</postalCode>
+                <country>Germany</country>
+            </address>
+            <onlineUrl>http://www.stadtentwicklung.berlin.de/umwelt/fischerei/fischereiamt/</onlineUrl>
+            <role>CONTENT_PROVIDER</role>
+        </associatedParty>
+        <associatedParty>
+            <organizationName>Leibniz Institut für Gewässerökologie und Binnenfischerei</organizationName>
+            <address>
+                <deliveryPoint>Müggelseedamm 310</deliveryPoint>
+                <city>Berlin</city>
+                <postalCode>12587</postalCode>
+                <country>Germany</country>
+            </address>
+            <onlineUrl>http://www.leibniz-gemeinschaft.de/institute-museen/einrichtungen/igb/</onlineUrl>
+            <role>Scientific Advisor</role>
+        </associatedParty>
+        <associatedParty>
+            <organizationName>Institute of Inland Fisheries Potsdam-Sacrow</organizationName>
+            <address>
+                <deliveryPoint>Im Koenigswald 2</deliveryPoint>
+                <city>Potsdam</city>
+                <postalCode>14469</postalCode>
+                <country>Germany</country>
+            </address>
+            <onlineUrl>http://www.ifb-potsdam.de/</onlineUrl>
+            <role>Scientific Advisor</role>
+        </associatedParty>        
+        
+        <pubDate>2014-08-02</pubDate>
+        <language>de</language>
+        <abstract>
+            <para>Survey of fish species in Berlin based on catch data from river lakes, streams &amp; standing bodies of water of the Berlin Fishing Agency from the years 1993, 2003, 2013.</para>
+            <para>Die Daten zeigen den Wissensstand der Fischbesiedelung Berliner Gewässer bis einschließlich Dezember 2013 im Überblick. Nach 2003 wurde die Fischbestandserfassung in den Berliner Gewässern konsequent fortgeführt. Zwischen 2003 und 2013 wurden zahlreiche Erfassungsdaten aktualisiert und neue Gewässer, insbesondere kleinere Fließgewässer, untersucht. Für die Darstellung der aktuellen Bestandssituation der Berliner Fischfauna wurden mehr als 900 Fangdaten von 153 Gewässern ausgewertet. Die Bestandsaufnahme ist repräsentativ, da sie alle größeren Fließgewässer und Seen Berlins sowie mehr als fünfzig der verschiedensten Kleingewässer umfasst. Im Erfassungszeitraum bis Dezember 2013 wurde jedes Kleingewässer mindestens einmal befischt, alle größeren mehrfach, z.T. jährlich, zu verschiedenen Jahreszeiten. Alle Gewässer wurden elektrisch befischt. In den größeren Gewässern wurden zusätzlich Stellnetze, Reusen, Zug- und Schleppnetze eingesetzt.</para>
+            <para>Durch die kombinierte Verwendung verschiedener Gerätetypen wird die Fangselektivität der einzelnen Messmethode kompensiert, was die Genauigkeit der Fischbestandserfassung steigert. Bewährt haben sich insbesondere die Kombinationen der Elektrobefischung mit Stellnetzen in Kanälen und bei künstlichen Uferbefestigungen sowie mit Schleppnetzen in den seenartigen Erweiterungen und bei naturbelassenen Uferstrukturen (Doetinchem &amp; Wolter 2003). Die Fischereidurchführung erfolgte entsprechend der üblichen, guten fachlichen Praxis. Bewatbare Gräben und Kleinstgewässer wurden mit einem tragbaren Impulsgleichstromgerät befischt, größere und tiefere Gewässer vom Boot aus mit einem Gleichstromaggregat und teilweise mit Multimaschenkiemennetzen. Dabei wurden die Uferlinie mit dem Elektrofischereigerät beprobt, je nach Gewässerbreite, Strukturvielfalt und Fangerfolg, mit dem Ziel, das Artenspektrum möglichst vollständig zu erfassen.</para>
+            <para>Die Elektrofischerei ist speziell bei rauen Bodensubstraten, wie Blocksteinwurf, Steinschüttungen oder Pflanzenbeständen, die effizienteste aller Fangmethoden. Bei qualifizierter Anwendung ist sie auch das schonendste Verfahren zur Fischbestandserfassung, da die Fische vergleichsweise wenig mit Netzmaterial u.ä. in Berührung kommen, weshalb sie kaum Schuppen- oder Schleimhautverletzungen aufweisen. Mit Hilfe eines Gleichstrom-Aggregates wird im Wasser ein elektrisches Feld erzeugt. In diesem befindliche Fische greifen, entsprechend ihrer Länge und Stellung zu den Feldlinien unterschiedliche Spannungen ab. Je nach Stärke derselben reichen die Reaktionen der Fische von Flucht über positive Galvanotaxis (gerichtetes Schwimmen zur Anode) bis hin zur Galvanonarkose. Der Wirkungsradius der Fangelektrode beträgt ca. 2 m, weshalb pelagisch (im Freiwasser) lebende, bzw. große, scheue Individuen aller Fischarten im Fang unterrepräsentiert sind, aufgrund ihrer größeren Fluchtdistanz. Insgesamt ist die Selektivität der Elektrofischerei allerdings weitaus geringer als die anderer Methoden, bei vergleichbarem Arbeits- und Zeitaufwand.</para>
+            <para>Zur Fangauswertung wurden die Arten bestimmt sowie die Individuen gezählt und gemessen, stichprobenartig auch gewogen. Fischlarven und Jungfische des gleichen Jahres blieben bei Beurteilungen der Artenhäufigkeiten weitgehend unberücksichtigt, da sie mit den gewählten Befischungsmethoden und dem Stichprobenumfang nicht repräsentativ erfasst wurden. Sie wurden allerdings als Arten- und Reproduktionsnachweis registriert.</para>
+        </abstract>
+        <distribution scope="document">
+            <online>
+                <url function="information">http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/edb208_01.htm</url>
+            </online>
+        </distribution>
+        <contact>
+            <organizationName>Senate Department for Urban Development and the Environment</organizationName>
+            <onlineUrl>http://www.stadtentwicklung.berlin.de/index_en.shtml</onlineUrl>
+        </contact>
+        
+    </dataset>
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2016-09-07T09:50:00</dateStamp>
+                <resourceLogoUrl>http://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/pix/umweltatlas_logo_klein.gif</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+</eml:eml>
